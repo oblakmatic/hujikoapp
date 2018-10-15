@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7e54232a352359b42b3db2e4c7426ad0
+timeCreated: 1495322704
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vonique 92
+  fontNames:
+  - Vonique 92
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
